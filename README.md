@@ -1,10 +1,10 @@
  # Hi there, I'm Amonique van Zyl 👋
 
-📍Pretoria, Gauteng, South Africa.
-🎓 Belgium Campus iTversity.
-📚 1st Year Bachelor of Computing student with a focus in Software Engineering
+<p> 📍Pretoria, Gauteng, South Africa. </p>
+<p> 🎓 Belgium Campus iTversity.</p>
+<p> 📚 1st Year Bachelor of Computing student with a focus in Software Engineering. </p>
 
-💡 Currently exploring the world of software engineering and building a solid foundation in computer science. I'm especially interested in developing projects that make life easier and more efficient.
+💡 Currently exploring the world of software engineering and building a solid foundation in computer science. 
 
 ## 🛠️ Skills & Interests
 - Software Development (still growing! 🌱)
@@ -12,12 +12,14 @@
 - Collaboration & Continuous Learning
 
 ## 📚 Education
-**Belgium Campus iTversity**  
-*Bachelor of Computing, Software Engineering*  
-_February 2025 – 2028_  
+<h3> Current:</h3>
+<p> Belgium Campus iTversity <br>
+Bachelor of Computing, Software Engineering <br>
+February 2025 – present </p>
 
-**Hoërskool Linden**  
-_2020 – 2024_
+<h3> Previous:</h3>
+<p> Hoërskool Linden <br>
+2020 – 2024 </p>
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/amonique-van-zyl-938954333)
