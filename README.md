@@ -24,7 +24,7 @@ _2020 – 2024_
 ---
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and follow along on my learning journey.
-## Hi there 👋
+
 
 <!--
 **amivz/amivz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
