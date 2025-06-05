@@ -1,3 +1,29 @@
+# Hi there, I'm Amonique van Zyl 👋
+
+🎓 I'm a **Bachelor of Computing (Software Engineering)** student at [Belgium Campus iTversity](https://www.belgiumcampus.ac.za/), based in Pretoria, Gauteng, South Africa. I started my academic journey in **February 2025**, and I'm passionate about technology, problem-solving, and continuous learning.
+
+💡 Currently exploring the world of software engineering and building a solid foundation in computer science. I'm especially interested in developing projects that make life easier and more efficient.
+
+## 🛠️ Skills & Interests
+- Software Development (still growing! 🌱)
+- Problem Solving & Logical Thinking
+- Collaboration & Continuous Learning
+
+## 📚 Education
+**Belgium Campus iTversity**  
+*Bachelor of Computing, Software Engineering*  
+_February 2025 – 2028_  
+
+**Hoërskool Linden**  
+_2020 – 2024_
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/amonique-van-zyl-938954333)
+- 📧 dxtgnpfy92@privaterelay.app
+
+---
+
+Thanks for stopping by! 😊 Feel free to explore my repositories and follow along on my learning journey.
 ## Hi there 👋
 
 <!--
