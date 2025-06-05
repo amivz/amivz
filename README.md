@@ -1,4 +1,4 @@
-# Hi there, I'm Amonique van Zyl 👋
+ # Hi there, I'm Amonique van Zyl 👋
 
 🎓 I'm a **Bachelor of Computing (Software Engineering)** student at [Belgium Campus iTversity](https://www.belgiumcampus.ac.za/), based in Pretoria, Gauteng, South Africa. I started my academic journey in **February 2025**, and I'm passionate about technology, problem-solving, and continuous learning.
 
